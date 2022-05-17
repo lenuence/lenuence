@@ -18,5 +18,7 @@ Contact me on telegram: @lenuence
 Visit:
 
 https://discord.gg/len
+
 https://discord.gg/vision-hub
+
 https://discord.gg/bitstorm
