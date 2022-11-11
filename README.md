@@ -1,10 +1,7 @@
 @lenuence#9999
-
-Interested in coding, money, and you
-
 learning lua
 
-I know html, css, python, and JavaScript
+I know html and css
 (The basics though)
 
 Looking to collaborate on bigger projects, mostly scripting based.
@@ -19,6 +16,6 @@ Visit:
 
 https://discord.gg/len
 
-https://discord.gg/vision-hub
+https://discord.gg/visionhub
 
 https://discord.gg/bitstorm
